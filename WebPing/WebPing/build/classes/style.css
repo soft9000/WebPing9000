@@ -1,0 +1,70 @@
+BODY, body          
+{
+    font-family:Tahoma, sans-serif; 
+    background-color:#f9f9f9; 
+    color:blue; 
+    text-align:justify;
+    font-size:medium; 
+}
+H1, h1        
+{
+    font-size:huge; 
+    font-weight:heavy; 
+    color:orange; 
+    text-align:left;
+}
+H2, h2        
+{
+    font-size:large; 
+    font-weight:heavy; 
+    color:orange; 
+}
+H3, h3        
+{
+    font-size:medium; 
+    font-weight:heavy; 
+    color:orange; 
+}
+B, b        
+{
+    font-weight:normal; 
+    color:red; 
+}
+.normal {
+    font-family: Verdana;
+    font-size: 16pt;
+    color: #000000;
+}
+.menubar {
+    font-family: Verdana;
+    font-size: 10pt;
+    font-weight:bold;
+    color:white;
+    background-color:silver; 
+} 
+.menuitem { 
+    font-family: Verdana; 
+    font-size: 10pt;
+    color:yellow; 
+    background-color:yellow; 
+}
+.menuwarn { 
+    font-family: Verdana; 
+    font-weight:bold; 
+    font-size: 10pt;
+    color:yellow; 
+    background-color:red; 
+}
+.item_even { 
+    font-family: Verdana; 
+    font-size: 16pt; 
+    color:#99FFCC; 
+    background-color: #66CCFF; 
+} 
+.item_odd { 
+    font-family: Verdana; 
+    font-size: 16pt; 
+    color: #66CCFF; 
+    background-color: #99FFCC; 
+} 
+
